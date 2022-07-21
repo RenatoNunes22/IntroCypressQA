@@ -1,0 +1,14 @@
+{
+  "name": "cypressqa",
+  "version": "1.0.0",
+  "description": "Primeiro projeto cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Renato Nunes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
